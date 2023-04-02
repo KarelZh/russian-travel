@@ -1,6 +1,6 @@
 .intro {
     max-width: calc(100% - (148px + 442px));
-    margin: 0; 
+    margin: 0;
     padding-top: 114px;
     padding-bottom: 92px;
     padding-left: 148px;
@@ -14,7 +14,7 @@
 @media screen and (max-width: 767px) {
     .intro {
         max-width: calc(100% - 24px*2);
-        margin: 0 auto; 
+        margin: 0 auto;
         padding-top: 110px;
         padding-bottom: 88px;
         padding-left: 0;
