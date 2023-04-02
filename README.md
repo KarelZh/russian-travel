@@ -1,6 +1,6 @@
 # Путешествия по России  
 
-Ссылка: https://karelzh.github.io/russian-travel/
+Ссылка: https://karelzh.github.io/russian-travel/index.html
 
 Данный проект реализован подходом desktop-first.  
 Использованы основные технологии как - flex, grid - контейнеры.  
