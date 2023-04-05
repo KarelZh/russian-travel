@@ -17,7 +17,7 @@
         line-height: 46px;
     }
 }
-@media screen and (max-width: 320px) {    
+@media screen and (min-width: 319px) and (max-width: 767px) {    
     .place__title {
         min-width: calc(100% - 16px * 2);
         font-size: 32px;
